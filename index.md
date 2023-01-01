@@ -11,8 +11,8 @@
         <h2>Recipes</h2>
         <ul>
             <li><a href="recipes/fruitAndYogurtSmoothie.md">Fruit and Yogurt Smoothie</a></li>
-            <li><a></a></li>
-            <li><a></a></li>
+            <li><a href="recipes/salmon.md">Pan-seared Salmon</a></li>
+            <li><a href="recipes/bolognese.md>Lentil Bolognese</a></li>
         </ul>
     </body>
 </html>
